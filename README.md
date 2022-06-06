@@ -1,5 +1,4 @@
-Hello! I'm **Christina Pizzonia**, and I'm an incoming electrical & computer engineering student at [UofT](https://www.utoronto.ca/).   
-I'm currently working on a bioinformatics project (using Python) at the [Parins-Fukuchi Lab](https://carolinetomo.github.io/).  
+Hello! I'm **Christina Pizzonia**, and I'm an incoming electrical & computer engineering student at [UofT](https://www.utoronto.ca/).     
 📫 Feel free to reach out via [email](mailto:christina.pizzonia@mail.utoronto.ca) or on [LinkedIn](https://www.linkedin.com/in/christina-pizzonia-05ab1a14a/) :)
 
 <!---
