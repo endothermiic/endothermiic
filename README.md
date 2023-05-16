@@ -13,9 +13,5 @@ I'm currently a 2nd year electrical & computer engineering student at the [Unive
 
 ### 🚀 Projects: 
 * Section in progress
-<!---
-Autonomous Line-following Robot
-Book Recommendations (ML)
-Personal Portfolio
---->
+
 Feel free to reach out via [email](mailto:christina.pizzonia@mail.utoronto.ca) or on [LinkedIn](https://www.linkedin.com/in/christina-pizzonia-05ab1a14a/) 📝
