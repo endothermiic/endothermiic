@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello! I'm *Christina* 🌻 
 
-I'm currently a 2nd year electrical engineering student at the [University of Toronto](https://www.utoronto.ca/), pursuing a double minor in linguistics & artificial intelligence ⚡. 
+I'm currently a 2nd year electrical & computer engineering student at the [University of Toronto](https://www.utoronto.ca/), pursuing a double minor in linguistics & artificial intelligence ⚡. 
 
 ### 💡 Skills:
 * Languages: C/C++, Python, MATLAB, Verilog, Assembly
