@@ -6,13 +6,13 @@ You can click the Preview link to take a look at your changes.
 
 I'm currently a 2nd year electrical & computer engineering student at the [University of Toronto](https://www.utoronto.ca/). 
 
-### 💡 Skills:
+<!--### 💡 Skills:
 * Languages: C/C++, Python, MATLAB
-<!-- * Frameworks: Pytorch, TensorFlow 
-* Web Development: HTML, CSS, JavaScript--->
+* Frameworks: Pytorch, TensorFlow 
+* Web Development: HTML, CSS, JavaScript
 
 ### 🚀 Projects: 
-* Section in progress
+* Section in progress--->
 
 
 Feel free to reach out via [email](mailto:christina.pizzonia@mail.utoronto.ca) or on [LinkedIn](https://www.linkedin.com/in/christina-pizzonia-05ab1a14a/) 📝
