@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello! I'm *Christina*
 
-I'm currently a 2nd year electrical  engineering student at the [University of Toronto](https://www.utoronto.ca/). 
+I'm currently a 3rd year electrical and computer engineering student at the [University of Toronto](https://www.utoronto.ca/). 
 
 💡 Skills:
 
@@ -20,10 +20,7 @@ I'm currently a 2nd year electrical  engineering student at the [University of T
 
 
 * Languages: C/C++, Python, MATLAB, Verilog, LaTeX
-* ML: Pytorch, TensorFlow 
-* Web development: HTML, CSS, JavaScript
-* Tools: Git, GitHub, VSCode, Quartus
-* Hardware design: Altium, Multisim, AutoCAD/Fusion360
+* Tools: Vivado/Vitis, Quartus/ModelSim, Git, Microsoft Office, Altium
 
 <!---### 🚀 Projects: 
 * Section in progress--->
